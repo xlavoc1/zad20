@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-color: #ccc;
+}
+
+div{
+    padding: 3px;
+    margin: 5px;
+}
+.div1{
+    color: tomato;
+}
+
+.div2{
+    color:darkgreen; 
+}
+
+.div3{
+    color: rebeccapurple;
+}
+
+.div4{
+    color: goldenrod;
+}
+
+.div5{
+    color: whitesmoke;
+}

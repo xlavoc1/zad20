@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-color: #ddd;
+}
+
+div{
+    padding: 3px;
+    margin: 5px;
+}
+.div1{
+    background-color: chartreuse;
+}
+
+.div2{
+    background-color: wheat;
+}
+
+.div3{
+    background-color: aqua;
+}
+
+.div4{
+    background-color: violet;
+}
+
+.div5{
+    background-color: #287;
+}
